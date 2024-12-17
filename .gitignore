@@ -1,0 +1,13 @@
+/server/.idea/
+/server/logs/
+/server/*/build/
+/server/build/
+/server/.gradle/
+/server/src/main/resources/static/
+/server/data/
+/bin/
+/logs/
+**/node_modules/
+**/.idea/
+**/cache/
+**/dist/
