@@ -4,7 +4,7 @@
 中文版 | [English](./README.md)
 
 <div align=center>
-<img src=app/src-tauri/icons/macos/icon.png width=300/>
+<img src=screenshot/icon.png width=300/>
 </div>
 
 <div align=center>

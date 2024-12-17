@@ -3,7 +3,7 @@
 [中文版](./README_ZH.md) | English
 
 <div align=center>
-<img src=app/src-tauri/icons/macos/icon.png width=300/>
+<img src=screenshot/icon.png width=300/>
 
 </div>
 
